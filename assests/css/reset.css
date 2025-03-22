@@ -16,4 +16,13 @@ h2 {
 }
  p {
     color: white;
+    text-align: justify;
+ }
+
+ span {
+    color: white;
+ }
+
+ .section_flex {
+    display: flex;
  }

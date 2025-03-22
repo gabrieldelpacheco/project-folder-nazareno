@@ -1,4 +1,23 @@
 .contact {
-    display: flex;
     flex-direction: column;
+}
+
+.contact__img {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.contact__img img {
+    width: 200px;
+    height: 160px;
+}
+
+.contact__number {
+    display: flex;
+}
+
+.contact__number img {
+/*     width: 20px; */
 }

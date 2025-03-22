@@ -1,0 +1,25 @@
+.who {
+    flex-direction: column;
+    
+    gap: 30px;
+}
+
+.who img {
+    width: 150px;
+}
+
+.who_perfil {
+    width: 400px;
+} 
+
+.who__perfil--joao {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.who__perfil--nazareno {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
