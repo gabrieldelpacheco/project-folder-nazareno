@@ -1,0 +1,14 @@
+.services {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li {
+    background-image: url('/assests/image/check_quad_1.png');
+    background-repeat: no-repeat;
+/*     background-position: left center; */
+    background-size: 16px;
+    padding-left: 25px;
+    list-style: none;
+    color: white;
+ }
