@@ -1,10 +1,17 @@
 body {
-    width: 100%vw;
-    padding: 0 25px;
-    margin: 0px;
+    width: 100vw;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
     background-color: cornflowerblue;
+}
+
+main {
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin: 2rem 5rem;
 }
 
 h1 {

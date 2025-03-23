@@ -2,13 +2,13 @@
     flex-direction: column;
 }
 
-.consultancy p {
+/* .consultancy p {
     width: 600px;
     padding-top: 40px;
     padding-bottom: 30px;
-}
+} */
 
 .consultancy img {
-    width: 600px;
-    align-items: end;
+    width: 20rem;
+    align-self: flex-end;
 }

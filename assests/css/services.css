@@ -11,3 +11,7 @@ ul li {
     list-style: none;
     color: white;
  }
+
+ .service__names {
+    align-self: flex-end;
+ }
